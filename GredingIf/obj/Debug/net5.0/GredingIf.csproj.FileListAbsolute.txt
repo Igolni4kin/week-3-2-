@@ -1,0 +1,16 @@
+C:\Users\37255\source\repos\ControlFlow\GredingIf\bin\Debug\net5.0\GredingIf.exe
+C:\Users\37255\source\repos\ControlFlow\GredingIf\bin\Debug\net5.0\GredingIf.deps.json
+C:\Users\37255\source\repos\ControlFlow\GredingIf\bin\Debug\net5.0\GredingIf.runtimeconfig.json
+C:\Users\37255\source\repos\ControlFlow\GredingIf\bin\Debug\net5.0\GredingIf.runtimeconfig.dev.json
+C:\Users\37255\source\repos\ControlFlow\GredingIf\bin\Debug\net5.0\GredingIf.dll
+C:\Users\37255\source\repos\ControlFlow\GredingIf\bin\Debug\net5.0\ref\GredingIf.dll
+C:\Users\37255\source\repos\ControlFlow\GredingIf\bin\Debug\net5.0\GredingIf.pdb
+C:\Users\37255\source\repos\ControlFlow\GredingIf\obj\Debug\net5.0\GredingIf.csproj.AssemblyReference.cache
+C:\Users\37255\source\repos\ControlFlow\GredingIf\obj\Debug\net5.0\GredingIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37255\source\repos\ControlFlow\GredingIf\obj\Debug\net5.0\GredingIf.AssemblyInfoInputs.cache
+C:\Users\37255\source\repos\ControlFlow\GredingIf\obj\Debug\net5.0\GredingIf.AssemblyInfo.cs
+C:\Users\37255\source\repos\ControlFlow\GredingIf\obj\Debug\net5.0\GredingIf.csproj.CoreCompileInputs.cache
+C:\Users\37255\source\repos\ControlFlow\GredingIf\obj\Debug\net5.0\GredingIf.dll
+C:\Users\37255\source\repos\ControlFlow\GredingIf\obj\Debug\net5.0\ref\GredingIf.dll
+C:\Users\37255\source\repos\ControlFlow\GredingIf\obj\Debug\net5.0\GredingIf.pdb
+C:\Users\37255\source\repos\ControlFlow\GredingIf\obj\Debug\net5.0\GredingIf.genruntimeconfig.cache

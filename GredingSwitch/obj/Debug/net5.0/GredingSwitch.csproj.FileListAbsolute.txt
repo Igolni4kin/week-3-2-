@@ -1,0 +1,16 @@
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\bin\Debug\net5.0\GredingSwitch.exe
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\bin\Debug\net5.0\GredingSwitch.deps.json
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\bin\Debug\net5.0\GredingSwitch.runtimeconfig.json
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\bin\Debug\net5.0\GredingSwitch.runtimeconfig.dev.json
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\bin\Debug\net5.0\GredingSwitch.dll
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\bin\Debug\net5.0\ref\GredingSwitch.dll
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\bin\Debug\net5.0\GredingSwitch.pdb
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\obj\Debug\net5.0\GredingSwitch.csproj.AssemblyReference.cache
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\obj\Debug\net5.0\GredingSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\obj\Debug\net5.0\GredingSwitch.AssemblyInfoInputs.cache
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\obj\Debug\net5.0\GredingSwitch.AssemblyInfo.cs
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\obj\Debug\net5.0\GredingSwitch.csproj.CoreCompileInputs.cache
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\obj\Debug\net5.0\GredingSwitch.dll
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\obj\Debug\net5.0\ref\GredingSwitch.dll
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\obj\Debug\net5.0\GredingSwitch.pdb
+C:\Users\37255\source\repos\ControlFlow\GredingSwitch\obj\Debug\net5.0\GredingSwitch.genruntimeconfig.cache
